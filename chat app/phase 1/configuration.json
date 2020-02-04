@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "minLogLevel": "Info",
+  "usersPath": "Resources/Users/",
+  "channelsPath": "Resources/Channels/",
+  "socketTimeout": 10000
+}
